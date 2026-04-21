@@ -1,6 +1,6 @@
-<!-- BANNER -->
+<!-- CUSTOM SVG BANNER — commit banner.svg to this same repo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=020d18,041c2c,062038&height=140&text=SHRAVYA%20S%20SHETTY&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=ML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20IEEE%20Published&descAlignY=68&descSize=14&descColor=7ee8c8&animation=fadeIn" width="100%">
+  <img src="./banner.svg" width="100%" alt="Shravya S Shetty — ML Engineer · Computer Vision · IEEE Published">
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -10,10 +10,10 @@
 
 <!-- LINK BUTTONS -->
 <p align="center">
-  <a href="https://linkedin.com/in/shravya-s-shetty04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="mailto:shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836"><img src="https://img.shields.io/badge/IEEE%20COSMIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>&nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20mid--2026-238636?style=for-the-badge&logoColor=white">
+  <a href="https://linkedin.com/in/shravya-s-shetty04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836"><img src="https://img.shields.io/badge/IEEE%20COSMIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20mid--2026-238636?style=for-the-badge&logoColor=white" alt="Open to Work">
 </p>
 
 ---
@@ -84,7 +84,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShettyShravya03&theme=github-compact&bg_color=0d1117&color=00ffb4&line=00ffb4&point=ffffff&hide_border=true&area=true&area_color=00ffb420" width="100%">
 </p>
 
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,10,20,30,10&height=80&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=020d18,041c2c&height=80&section=footer" width="100%">
 </p>
