@@ -11,7 +11,7 @@
 <!-- LINK BUTTONS -->
 <p align="center">
   <a href="https://linkedin.com/in/shravya-s-shetty04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836"><img src="https://img.shields.io/badge/IEEE%20COSMIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>&nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20mid--2026-238636?style=for-the-badge&logoColor=white" alt="Open to Work">
 </p>
