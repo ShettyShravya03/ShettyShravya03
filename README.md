@@ -3,14 +3,14 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Research+Intern+%40+IISc+Bengaluru+%7C+NMAMIT+%7C+CGPA+9.18;Building+AI+for+Healthcare+%26+Diagnostics;PyTorch+%7C+Computer+Vision+%7C+Signal+Processing;Open+to+SDE+%2F+ML+Roles+mid-2026)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Research+Intern+%40+IISc+Bengaluru+%7C+NMAMIT+%7C+CGPA+9.18;Building+AI+for+Healthcare+%26+Diagnostics;PyTorch+%7C+Computer+Vision+%7C+Signal+Processing;Open+to+SDE+%2F+ML+Roles)](https://git.io/typing-svg)
 
  <br/>
  
 <p align="center">
   <b>🔗 Connect:</b>
   <a href="https://linkedin.com/in/shravya-s-shetty04">LinkedIn</a> |
-  <a href="mailto:shravishetty2004@gmail.com">Email</a> |
+  <a href="mailto:shravishetty2004@gmail.com">Email</a> 
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 👩‍💻 About me
 
-Backend Engineer and ML Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems — bridging research-grade models and real-world applications.
+Backend Engineer and ML Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems - bridging research-grade models and real-world applications.
 
 ---
 
@@ -69,9 +69,9 @@ Backend Engineer and ML Engineer focused on production-ready systems. Built end-
 
 | Project | Description | Tech Stack | Result |
 |---|---|---|---|
-| 🦴 **[Skeletal Age & Gender Prediction](https://github.com/ShettyShravya03/Machine-Learning-Driven-Skeletal-age-and-gender-prediction)** | Full CV pipeline on 1,294 X-rays — Attention U-Net segmentation, SHAP feature selection, deployed via Flask + React | `PyTorch` `XGBoost` `SHAP` `Flask` `React` | 🏆 **Best Project EXPRO 2025-26** · Dice 0.94 · AUC 0.912 |
+| 🦴 **[Skeletal Age & Gender Prediction](https://github.com/ShettyShravya03/Machine-Learning-Driven-Skeletal-age-and-gender-prediction)** | Full CV pipeline on 1,294 X-rays - Attention U-Net segmentation, SHAP feature selection, deployed via Flask + React | `PyTorch` `XGBoost` `SHAP` `Flask` `React` | 🏆 **Best Project EXPRO 2025-26** · Dice 0.94 · AUC 0.912 |
 | 🧠 **[Epileptic Seizure Prediction](https://github.com/ShettyShravya03/Epileptic-Seizure-Prediction-using-EEG-spectrogram)** | Wavelet-CNN-BiLSTM + Attention on CHB-MIT EEG. Grad-CAM clinical interpretability | `CNN-BiLSTM` `CWT` `Grad-CAM` | 📄 **IEEE COSMIC 2025** · 85% acc · AUC 0.90 |
-| 🔬 **[IISc OCR Pipeline](https://github.com/ShettyShravya03/chemical-compound-recognition)** | Mass spectrometry peak-ID for CGPL lab — EasyOCR + OpenCV, Hough-transform axis detection | `EasyOCR` `OpenCV` `Python` | 🏛️ **IISc Bengaluru** · 85% extraction acc |
+| 🔬 **[IISc OCR Pipeline](https://github.com/ShettyShravya03/chemical-compound-recognition)** | Mass spectrometry peak-ID for CGPL lab - EasyOCR + OpenCV, Hough-transform axis detection | `EasyOCR` `OpenCV` `Python` | 🏛️ **IISc Bengaluru** · 85% extraction acc |
 
 ---
 
@@ -89,7 +89,7 @@ Backend Engineer and ML Engineer focused on production-ready systems. Built end-
 
 <p align="center">
   <sub>
-    🎯 Actively seeking <b>SDE / ML roles</b> · Open to opportunities <br>
+    🎯 Actively seeking <b>SDE / ML roles</b> <br>
     📬 <a href="mailto:shravishetty2004@gmail.com">shravishetty2004@gmail.com</a> ·
     <a href="https://linkedin.com/in/shravya-s-shetty04">linkedin.com/in/shravya-s-shetty04</a>
   </sub>
