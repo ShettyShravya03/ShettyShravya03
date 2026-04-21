@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFB4¢er=true&vCenter=true&width=500&lines=Building+AI+for+healthcare+%26+diagnostics;IEEE+Published+%E2%80%94+COSMIC+2025;Ex-Research+Intern+%40+IISc+Bengaluru;Open+to+SDE+%2F+ML+Engineer+roles+mid-2026" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFB4&center=true&vCenter=true&width=520&lines=Building+AI+for+healthcare+%26+diagnostics;IEEE+Published+%E2%80%94+COSMIC+2025;Ex-Research+Intern+%40+IISc+Bengaluru;Open+to+SDE+%2F+ML+roles+mid-2026" alt="Typing SVG">
 </p>
 
 <!-- LINK BUTTONS -->
@@ -76,8 +76,8 @@
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShettyShravya03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffb4&icon_color=00ffb4&count_private=true" />&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShravya03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffb4&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShettyShravya03&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00ffb4&amp;icon_color=00ffb4&amp;count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShravya03&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00ffb4&amp;langs_count=6">
 </p>
 
 <p align="center">
@@ -86,5 +86,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=020d18,041c2c&height=40&text=Final-year%20B.Tech%20ISE%20%C2%B7%20NMAMIT%20%C2%B7%20Bengaluru%20%26%20remote&fontSize=11&fontColor=7ee8c8&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=020d18,041c2c&height=80&section=footer&text=shravishetty2004@gmail.com&fontSize=12&fontColor=7ee8c8" width="100%">
 </p>
