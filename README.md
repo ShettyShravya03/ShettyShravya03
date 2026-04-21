@@ -19,18 +19,9 @@
 ---
 
 <!-- HEADLINE METRICS -->
-<table align="center">
-  <tr>
-    <td align="center"><strong>9.18</strong><br><sub>CGPA · NMAMIT</sub></td>
-    <td align="center">&nbsp;&nbsp;&nbsp;</td>
-    <td align="center"><strong>0.90 ROC-AUC</strong><br><sub>EEG Model · IEEE 2025</sub></td>
-    <td align="center">&nbsp;&nbsp;&nbsp;</td>
-    <td align="center"><strong>1,294 X-rays</strong><br><sub>CVM Pipeline · Best Project</sub></td>
-    <td align="center">&nbsp;&nbsp;&nbsp;</td>
-    <td align="center"><strong>85% acc</strong><br><sub>OCR Pipeline · IISc</sub></td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="./metrics.svg" width="100%" alt="Key Metrics">
+</p>
 ---
 
 ### 🛠 Tech stack
