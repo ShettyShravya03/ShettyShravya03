@@ -1,0 +1,74 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020d18"/>
+      <stop offset="35%" stop-color="#041c2c"/>
+      <stop offset="65%" stop-color="#052030"/>
+      <stop offset="100%" stop-color="#020d18"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00ffb4" stroke-width="0.4" opacity="0.12"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .pulse1 {
+      stroke-dasharray: 1600;
+      stroke-dashoffset: 1600;
+      animation: draw 3s ease forwards, loop 7s 3s linear infinite;
+    }
+    .pulse2 {
+      stroke-dasharray: 1600;
+      stroke-dashoffset: 1600;
+      animation: draw 3s ease 0.4s forwards, loop 7s 3.4s linear infinite;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes loop { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1600; } }
+    .title   { animation: fadeUp 1s ease 0.1s forwards; opacity: 0; }
+    .sub     { animation: fadeUp 1s ease 0.4s forwards; opacity: 0; }
+    .detail  { animation: fadeUp 1s ease 0.7s forwards; opacity: 0; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0);   }
+    }
+  </style>
+
+  <!-- Background + grid -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <rect width="900" height="200" fill="url(#grid)"/>
+
+  <!-- Primary EEG pulse -->
+  <polyline class="pulse1"
+    points="0,100 55,100 75,100 90,70 104,130 118,48 132,152 146,100 215,100 240,80 265,120 290,100 365,100 387,56 400,144 413,52 426,148 439,100 508,100 538,78 568,122 598,100 666,100 692,76 708,124 724,100 798,100 822,84 838,116 854,100 900,100"
+    fill="none" stroke="#00ffb4" stroke-width="2" opacity="0.35" filter="url(#glow)"/>
+
+  <!-- Secondary subtle pulse -->
+  <polyline class="pulse2"
+    points="0,104 78,104 98,90 116,118 136,74 152,130 168,104 276,104 308,88 338,120 368,104 458,104 478,72 492,136 506,66 520,142 536,104 616,104 646,88 666,120 688,104 776,104 798,92 812,116 828,104 900,104"
+    fill="none" stroke="#00ffb4" stroke-width="1" opacity="0.15"/>
+
+  <!-- Title text -->
+  <text class="title" x="450" y="86"
+    font-family="'Arial Black', Impact, Arial, sans-serif"
+    font-size="44" font-weight="900"
+    fill="white" text-anchor="middle" letter-spacing="4">SHRAVYA S SHETTY</text>
+
+  <!-- Subtitle -->
+  <text class="sub" x="450" y="118"
+    font-family="Arial, sans-serif"
+    font-size="13.5" font-weight="400"
+    fill="#7ee8c8" text-anchor="middle" letter-spacing="2">ML Engineer  ·  Computer Vision  ·  IEEE Published</text>
+
+  <!-- Divider accent -->
+  <line x1="185" y1="140" x2="715" y2="140" stroke="#00ffb4" stroke-width="0.5" opacity="0.25"/>
+
+  <!-- Detail line -->
+  <text class="detail" x="450" y="160"
+    font-family="'Courier New', monospace"
+    font-size="10.5" fill="#3d8a6e"
+    text-anchor="middle" letter-spacing="1.5">Ex-Research Intern @ IISc Bengaluru  ·  NMAMIT  ·  CGPA 9.18</text>
+</svg>
