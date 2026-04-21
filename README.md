@@ -30,7 +30,7 @@
 
 👩‍💻 About me
 
-AI/ML builder and Backend Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems - bridging research-grade models and real-world applications.
+Backend Engineer and ML Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems — bridging research-grade models and real-world applications.
 
 ---
 
@@ -89,7 +89,7 @@ AI/ML builder and Backend Engineer focused on production-ready systems. Built en
 
 <p align="center">
   <sub>
-    🎯 Actively seeking <b>SDE / ML roles · mid-2026</b> · Particularly interested in healthcare AI, computer vision, and applied ML<br>
+    🎯 Actively seeking <b>SDE / ML roles</b> · Open to opportunities <br>
     📬 <a href="mailto:shravishetty2004@gmail.com">shravishetty2004@gmail.com</a> ·
     <a href="https://linkedin.com/in/shravya-s-shetty04">linkedin.com/in/shravya-s-shetty04</a>
   </sub>
