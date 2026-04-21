@@ -77,5 +77,5 @@
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4d6e,1a7a9a&height=80&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490,0d9488&height=80&section=footer" width="100%">
 </p>
