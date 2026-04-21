@@ -30,7 +30,7 @@
 
 👩‍💻 About me
 
-Backend Engineer and ML Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems - bridging research-grade models and real-world applications.
+Backend and ML Engineer focused on production-ready systems. Built end-to-end ML pipelines across computer vision and signal processing, along with scalable backend systems - bridging research-grade models and real-world applications.
 
 ---
 
