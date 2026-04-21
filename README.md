@@ -8,11 +8,18 @@
  <br/>
  
 <p align="center">
-  <a href="https://linkedin.com/in/shravya-s-shetty04">LinkedIn</a> •
-  <a href="mailto:shravishetty2004@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836">IEEE COSMIC 2025</a> •
-  Open to Work (Mid-2026)
+  <b>🔗 Connect:</b>
+  <a href="https://linkedin.com/in/shravya-s-shetty04">LinkedIn</a> |
+  <a href="mailto:shravishetty2004@gmail.com">Email</a> |
+</p>
+
+<p align="center">
+  <b>📄 Publication:</b>
+  <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836">IEEE COSMIC 2025</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat" />
 </p>
 
 </div>
