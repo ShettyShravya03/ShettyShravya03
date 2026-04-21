@@ -27,7 +27,7 @@
 
 ### 🛠 Tech stack
 
-<table>
+<table width="100%">
   <tr>
     <th>Languages</th>
     <th>ML / AI</th>
@@ -35,20 +35,20 @@
     <th>DevOps &amp; Cloud</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,js,c&size=32" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&size=32" /><br>
       <img src="https://img.shields.io/badge/XGBoost-43A047?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/SHAP-0097A7?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/BiLSTM-1565C0?style=flat-square&logoColor=white" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flask,react,tailwind,mysql" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask,react,tailwind,mysql&size=32" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,azure" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,azure&size=32" />
     </td>
   </tr>
 </table>
@@ -77,5 +77,5 @@
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=020d18,041c2c&height=80&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=041c2c,0a3d5c&height=80&section=footer" width="100%">
 </p>
