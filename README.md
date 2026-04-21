@@ -11,7 +11,7 @@
 <!-- LINK BUTTONS -->
 <p align="center">
   <a href="https://linkedin.com/in/shravya-s-shetty04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="mailto:shravishetty2004@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <a href="https://doi.org/10.1109/COSMIC67569.2025.11380836"><img src="https://img.shields.io/badge/IEEE%20COSMIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>&nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20mid--2026-238636?style=for-the-badge&logoColor=white" alt="Open to Work">
 </p>
@@ -27,7 +27,8 @@
 
 ### 🛠 Tech stack
 
-<table width="100%">
+<div align="center">
+<table>
   <tr>
     <th>Languages</th>
     <th>ML / AI</th>
@@ -36,22 +37,32 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js,c&size=32" />
+      <img src="https://skillicons.dev/icons?i=python,java,js,c&size=26" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&size=32" /><br>
-      <img src="https://img.shields.io/badge/XGBoost-43A047?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/SHAP-0097A7?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/BiLSTM-1565C0?style=flat-square&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&size=26" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,react,tailwind,mysql&size=32" />
+      <img src="https://skillicons.dev/icons?i=flask,react,tailwind,mysql&size=26" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,azure&size=32" />
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,azure&size=26" />
     </td>
   </tr>
 </table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-43A047?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SHAP-0097A7?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/BiLSTM-1565C0?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Grad--CAM-6A1B9A?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Attention_U--Net-880E4F?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/EasyOCR-E65100?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
@@ -77,5 +88,5 @@
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490,0d9488&height=80&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=80&section=footer" width="100%">
 </p>
