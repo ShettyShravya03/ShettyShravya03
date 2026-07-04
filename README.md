@@ -3,7 +3,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Research+Intern+%40+IISc+Bengaluru+%7C+NMAMIT+%7C+CGPA+9.18;Building+AI+for+Healthcare+%26+Diagnostics;PyTorch+%7C+Computer+Vision+%7C+Signal+Processing;Open+to+SDE+%2F+ML+Roles)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Research+Intern+%40+IISc+Bengaluru+%7C+NMAMIT+%7C+CGPA+9.26;Building+AI+for+Healthcare+%26+Diagnostics;PyTorch+%7C+Computer+Vision+%7C+Signal+Processing;Open+to+SDE+%2F+ML+Roles)](https://git.io/typing-svg)
 
  <br/>
  
